@@ -120,12 +120,13 @@ button {
   font-weight: 600;
   padding: 15px 32px;
   width: 200px;
-  margin: 0px auto 40px auto;
+  margin: -20px auto 40px auto;
   float:left;
+
 }
 
 button.accept {
-   margin: 18px auto 40px auto;
+  margin: -2px auto 40px auto;
   border-radius: 0px 0px 0px 10px;
   border-right: solid 1px #cc919a;
 }
