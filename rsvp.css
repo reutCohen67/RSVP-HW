@@ -1,4 +1,5 @@
-html { 
+
+html {
   /*background: url("9.jpeg") no-repeat center center fixed; */
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -31,7 +32,7 @@ resize: both;
   height: 740px;
   width: 400px;
   background-color: #fff;
-  margin: -1200px auto;
+  margin: -1800px auto;
   border-radius: 10px;
   color: #666;
   padding: 0px 0px;
@@ -45,7 +46,7 @@ resize: both;
   height: 1050px;
   width: 400px;
   background-color: #fff;
-  margin: -1200px auto;
+  margin: -1500px auto;
   border-radius: 10px;
   color: #666;
   padding: 0px 0px;
@@ -57,7 +58,7 @@ resize: both;
   height: 300px;
   width: 400px;
   background-color: #fff;
-  margin: -1200px auto;
+  margin: -1800px auto;
   border-radius: 10px;
   color: #666;
   padding: 0px 0px;
@@ -92,7 +93,7 @@ p.line {
 }
 
 .form input {
-  font-size: : 15px;
+  font-size: 15px;
   padding: 6px;
   margin: 25px auto 20px;
   display: block;
@@ -203,7 +204,7 @@ table, th, td {
 }
 iframe{
     width: 80%; 
-    height: 80%:
+    height: 80%;
     margin-left: auto;   
     margin-right: auto;
     border:none;
@@ -410,5 +411,11 @@ img {vertical-align: middle;}
 #logo{
   margin-left: 100px;
   border-radius: 50%
+}
+
+
+#details {
+  text-align: center;
+
 }
 
